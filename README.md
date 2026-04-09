@@ -1,4 +1,4 @@
-📚 Library Management System
+<h1>📚 Library Management System<h1>
 
 A simple Library Management System built using Python and Streamlit, with JSON-based storage. This project allows users to manage books, members, and borrowing operations through an interactive UI.
 
