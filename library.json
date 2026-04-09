@@ -1,0 +1,54 @@
+{
+    "books": [
+        {
+            "id": "B-84NCX",
+            "Title": "got",
+            "Author": "abc",
+            "Total_copies": 20,
+            "Avalibale_copies": 20,
+            "added_on": "2026-01-09 01:37:34"
+        },
+        {
+            "id": "B-OE5UO",
+            "Title": "got",
+            "Author": "abc",
+            "Total_copies": 40,
+            "Avalibale_copies": 40,
+            "added_on": "2026-01-09 01:38:44"
+        },
+        {
+            "id": "B-7M4Z9",
+            "Title": "sita :the warrior",
+            "Author": "Amish",
+            "Total_copies": 15,
+            "Avalibale_copies": 14,
+            "added_on": "2026-01-14 19:51:00"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-W2DLW",
+            "Name": "Ravi",
+            "Email": "ravi@123gmail.com",
+            "borrowed": []
+        },
+        {
+            "id": "M-S5LOO",
+            "Name": "Avi joshi",
+            "Email": "avi@gmail.com",
+            "borrowed": [
+                {
+                    "book_id": "B-7M4Z9",
+                    "title": "sita :the warrior",
+                    "borrow_on": "2026-01-14 19:51:21"
+                }
+            ]
+        },
+        {
+            "id": "M-BMZVW",
+            "Name": "Priya",
+            "Email": "priya@gemail.com",
+            "borrowed": []
+        }
+    ]
+}
