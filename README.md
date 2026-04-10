@@ -82,28 +82,29 @@ streamlit run app.py
 
 ## 🧠 Concepts Used
 
--OOP (Object-Oriented Programming)
--JSON File Handling
--CRUD Operations
--Streamlit UI
+- OOP (Object-Oriented Programming)
+- JSON File Handling
+- CRUD Operations
+- Streamlit UI
 
 ---
 
 
 ##📊 How It Works
--Each book & member has a unique ID
--Borrowing → decreases available copies
--Returning → increases available copies
--Data stored in library.json
+
+- Each book & member has a unique ID
+- Borrowing → decreases available copies
+- Returning → increases available copies
+- Data stored in library.json
 
 ---
 
 ##🌱 Future Improvements
 
--🔍 Search system
--🔐 Authentication
--📊 Dashboard
--☁️ Database integration
+- 🔍 Search system
+- 🔐 Authentication
+- 📊 Dashboard
+- ☁️ Database integration
 
 ---
 
