@@ -64,15 +64,11 @@ cd library-management-system
 pip install streamlit
 streamlit run app.py
 
----
+```
 
-## 📊 How It Works
-Each book & member has a unique ID
-Borrowing → decreases available copies
-Returning → increases available copies
-Data stored in library.json
+## Sample Data
 
-Sample Data
+```
 {
   "books": [
     {
@@ -82,23 +78,41 @@ Sample Data
     }
   ]
 }
+```
 
-🧠 Concepts Used
-OOP (Object-Oriented Programming)
-JSON File Handling
-CRUD Operations
-Streamlit UI
+## 🧠 Concepts Used
 
-🌱 Future Improvements
-🔍 Search system
-🔐 Authentication
-📊 Dashboard
-☁️ Database integration
+-OOP (Object-Oriented Programming)
+-JSON File Handling
+-CRUD Operations
+-Streamlit UI
 
-⭐ Support
+---
+
+
+##📊 How It Works
+-Each book & member has a unique ID
+-Borrowing → decreases available copies
+-Returning → increases available copies
+-Data stored in library.json
+
+---
+
+##🌱 Future Improvements
+
+-🔍 Search system
+-🔐 Authentication
+-📊 Dashboard
+-☁️ Database integration
+
+---
+
+##⭐ Support
 
 If you like this project:
 
-⭐ Star the repo
-🍴 Fork it
-🚀 Share it
+-⭐ Star the repo
+-🍴 Fork it
+-🚀 Share it
+
+---
