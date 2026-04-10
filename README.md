@@ -90,7 +90,7 @@ streamlit run app.py
 ---
 
 
-##📊 How It Works
+## 📊 How It Works
 
 - Each book & member has a unique ID
 - Borrowing → decreases available copies
@@ -99,7 +99,7 @@ streamlit run app.py
 
 ---
 
-##🌱 Future Improvements
+## 🌱 Future Improvements
 
 - 🔍 Search system
 - 🔐 Authentication
@@ -108,7 +108,7 @@ streamlit run app.py
 
 ---
 
-##⭐ Support
+## ⭐ Support
 
 If you like this project:
 
