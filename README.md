@@ -108,12 +108,19 @@ streamlit run app.py
 
 ---
 
+# 👩‍💻 Author
+
+**Bhargavi Tare**
+
+GitHub: [https://github.com/bhargavi-insights](https://github.com/bhargavi-insights)
+
+---
+
 ## ⭐ Support
 
 If you like this project:
 
 - ⭐ Star the repo
-- 🍴 Fork it
 - 🚀 Share it
 
 ---
